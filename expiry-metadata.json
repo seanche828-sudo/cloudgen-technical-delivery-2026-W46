@@ -1,0 +1,12 @@
+{
+  "client": "CloudGen",
+  "delivery_week": "Week 15",
+  "iso_week": "2026-W46",
+  "published_date": "2026-11-09",
+  "expires_date": "2026-12-09",
+  "expiry_policy": "Permanently delete this repository on or after the expires_date.",
+  "archive": "cloudgen-week-15-technical-deliverables-20261109.zip",
+  "archive_sha256": "ff836e4fc1fc79cc02d2663f2e803de21140c758a984797fa6ae59e32ca01083",
+  "encryption": "WinZip AES-256"
+}
+
